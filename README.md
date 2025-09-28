@@ -2,8 +2,6 @@
 
 A Power BI dashboard project to analyze the growth, distribution, and technological trends of electric vehicles (EVs) in the United States, using a real-world dataset from Kaggle.
 
-<img width="1291" height="731" alt="image" src="https://github.com/user-attachments/assets/241c4f35-398a-4a93-b0eb-9a1665864dfa" />
-
 ## 📊 Objective
 To assess the EV market size, adoption trends, top manufacturers, and the impact of policy incentives using interactive Power BI visuals.
 
@@ -39,7 +37,7 @@ To assess the EV market size, adoption trends, top manufacturers, and the impact
 
 ## 📷 Dashboard Preview
 
-> Screenshot of the final Power BI dashboard:
+Final Power BI dashboard:
 <img width="1291" height="731" alt="Screenshot 2025-09-28 185405" src="https://github.com/user-attachments/assets/f0253168-7ab4-42f6-b278-dd023c244dee" />
 
 ## 📂 Files Included
