@@ -43,8 +43,9 @@ Final Power BI dashboard:
 ## 📂 Files Included
 
 - EV_Insights.pbix
+- Problem Statement.docx
 - PowerBI_Dashboard.png
-- Electric_Vehicle_Population_Data.csv
+- Electric_Vehicle_Population_Data.csv (access with this link : https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population)
 
 ## 🚀 How to Run
 
